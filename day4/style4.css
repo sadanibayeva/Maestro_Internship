@@ -1,0 +1,120 @@
+@font-face {
+    font-family:"Roboto" ;
+    src: url(../fonts/Roboto-Medium.ttf);
+    font-weight: 500;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.div{
+    width: 100%;
+    height: 1500px;
+    background-color: white;
+}
+.all{
+    width: 70%;
+    margin: auto;
+  
+}
+.div img{
+    width: 284px;
+    height: 69px;
+    margin:26px 0 0 26px;
+}
+.first{
+    margin-top:35px;
+}
+.first .table td{
+    line-height:40px;
+    color: rgb(229, 224, 224);
+}
+.div .first .table{
+    background-color: #35444F;
+    height:49px;
+    width: 40px;
+  }  
+.column{
+    border-right: 2px solid rgb(220, 213, 213); 
+    padding: 0 45px;
+}
+.hover1:hover{
+    background-color: #222F3A;
+}
+.ikili{
+    display: flex;
+    width: 100%;
+    margin: 35px auto ;
+    flex-wrap: nowrap;
+    align-items: center ;
+    justify-content: center ;
+}
+.div1{
+    width: 40%;
+    height: 600px;
+}
+.div1 .table{
+    background-color: white;
+    border:1px solid #485863;
+    height: 290px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+.div1 .table .row{
+    width: 100%;
+    margin: auto;
+}
+.div1 .table td{
+    color: #485863;
+    margin: auto;
+    line-height: 50px;
+}
+.div2{
+    width: 60%;
+    height: 800px;
+    background-color: #00000000;
+    margin: auto;
+    text-align: center;
+}
+.borderr{
+    border:1px solid #485863;
+    width: 600px;
+   height: 500px;
+   /* margin-top:25px; */
+}
+.hover2 span{
+    margin-left: 25px;
+}
+.hover2:hover{
+    background: #DBDBDB;
+    color: #000;
+}
+.div2 img{
+    width: 300px;
+    height: 381px;
+}
+.div2 p{
+    margin-top: 25px;
+    width:70%;
+    text-align: left;
+}
+.third .table{
+  background-color: #63696E7A;
+    width: 100%;
+}
+.hover3{
+    width: 150px;
+}
+.col{
+    border-right: 2px transparent rgb(220, 213, 213); 
+    padding: 10px 38px;
+    color: #010101;
+    font-weight: 400;
+}
+.hover3:hover{
+    color:#3181A6;
+    border-bottom:1px solid #3181A6;
+}
