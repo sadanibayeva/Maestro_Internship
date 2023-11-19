@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.photo{
+    position: relative;
+    margin-left: 160px;
+}
+.photo img{
+    margin-top: 50px;
+    object-fit: contain;
+    width: 650px;
+    height: 550px;
+    margin-left: 50px;
+}
+.kalkulyator{
+    width: 310px;
+    box-shadow: -5px 5px 8px 0px rgba(0, 0, 0, 0.30);
+    height: 600px;
+    background-color: black;
+    position: absolute;
+    top: 90px;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.umumi{
+    width: 310px;
+}
+#result{
+    border:none;
+    height: 10px;
+    color: white;
+    background-color: black !important;
+}
+#hesab{
+    margin-left:84px;
+    border: none;
+    height: 50px;
+    color: white !important;
+    background-color: black;
+}
+.ikili{
+    display: flex;
+    margin-top:120px;
+    justify-content: space-between;
+}
+.ikili p{
+    color:white;
+    margin-left:25px;
+    font-size: 29px;
+}
+.xett{
+    width: 200px;
+    background-color: #74EBD5;
+    height: 0.2px;
+    margin: 15px auto;
+}
+.reng{
+    background-color: white !important;
+    color: black;
+}
+.reng1{
+    color:white;
+}
+.col{
+    height: 80px;
+    width: 210px;
+}
+.btn{
+    margin-top:8px;
+    border-radius: 50%;
+    background-color: #74EBD5;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    line-height: 40px;
+    margin:2%;
+}
+.buttons{
+    width: 70%;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 60px auto;
+}
+.buttons .btn{
+    font-size: 20px;
+}
