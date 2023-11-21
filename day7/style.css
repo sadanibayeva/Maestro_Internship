@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #B07289;
+}
+.umumi{
+    background-color: white;
+    width:65%;
+    height: 750px;
+    margin:30px auto;
+    border-radius: 20px;
+}
+body h3{
+    font-size:40px;
+    text-align: center;
+    padding-top: 45px;
+}
+.uclu{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    width: 80%;
+    margin: 60px auto;
+}
+.uclu input{
+    border-radius: 10px;
+    height: 40px;
+    width: 250px;
+    border: 2px solid #E53170;
+    margin-top:25px;
+}
+.inputt{
+    border: 2px solid #E53170;
+    border-radius: 10px;
+    height: 40px;
+    width: 250px;
+    margin-top:25px;
+    color:#E53170;
+}
+.newinput{
+    border: none;
+}
+.ikili {  
+    border-radius: 16px;
+    height: 40px;
+    width: 150px;
+    margin-top:45px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    background-color: #E53170;
+    color:white;
+    border:none;
+}
+.div1{
+    border:1px;
+    border-radius: 16px;
+    background: #FFF;
+    box-shadow: 0px 0px 9.35556px 0px #E5E5E5;
+    display: flex;
+    width: 415px;
+    margin:15px auto;
+    height: 84px;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-around;
+}
+.soz{  
+    display: flex;
+    flex-wrap: wrap;
+    width: 10%;
+    height: 50px;
+    line-height: 25px;
+    text-align: center;
+}
+.isare{
+    display: flex;
+    width: 5%;
+    height: 50px;
+    flex-wrap: wrap;
+    color:#F25F4C; 
+}
+.soz h6{
+    background-color:#FCEEF5;
+    width: 43px;
+    height: 23px;
+    color: #571032;
+    font-size: 11px;
+    border-radius: 4.678px;
+}

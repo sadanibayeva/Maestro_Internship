@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.umumii{
+    width: 1145px;
+    height: 850px;
+    margin:auto;
+    background: #F3F3F3;
+}
+.umumii h1{
+    position: relative;
+    top: 0;
+}
+.umumi{
+    margin:auto;
+    width: 1000px;
+    height: 820px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    background: #F3F3F3;
+}
+.umumi .div{
+    background-color: white;
+    width: 476px;
+    height: 375px;
+    margin-top: 5px;
+}
+.uclu{
+    display: flex;
+    margin-top: 15px;
+    flex-wrap: nowrap;
+    width: 98%;
+    height: 300px;
+    align-items: center !important;
+    justify-content:space-around;
+}
+.ilkimg{
+    width: 60px;
+    height:20px;
+    display: flex;
+    margin: auto;
+    padding-top: 10px;
+}
+.div1{
+    display: flex;
+    flex-wrap: wrap;
+    width: 10%;
+    margin:0 0 0 25px;
+}
+.div2{
+    width:55%;
+}
+.div3{
+    width:50%;
+}
+.div1 img{
+    width: 25px;
+    height: 25px;
+    margin-top:10px;
+}
+.div2 img{
+    width: 200px;
+    height: 295px;
+    margin-top:5px;
+    left:35px; 
+}
+.div3 .otto{
+    width:80px;
+    height:30px;
+    font-weight: 700;
+}
+.div3 h3{
+    font-size: 15px;
+    font-weight: 100;
+    font-family: 'Red Rose', serif;
+}
+.ulduz{
+    width: 80px;
+}
+.ikili{
+    display: flex;
+    width: 98%;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+.ikili h4{
+    font-size: 9px;
+    font-weight: 100;
+}
+.ikili h3{
+    font-size: 26px;
+    font-weight: 900;
+    margin-left:15px;
+}
+.div3 p{
+    font-size:10px;
+    width: 95%;
+    margin-top: 2px;
+}
+.qara{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+    width: 90%;
+    height: 50px;
+}
+.qara h5{
+    font-family: 'Montserrat', sans-serif;
+    margin-left:25px;
+}
+.div3 h1{
+    border:1px solid black;
+    background-color: white;
+    width: 89%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 100;
+    line-height: 45px;
+}
